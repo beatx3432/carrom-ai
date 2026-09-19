@@ -19,6 +19,8 @@ android.api = 34
 android.minapi = 23
 android.archs = arm64-v8a
 
+p4a.local_recipes = %(source.dir)s/p4a-recipes
+
 [buildozer]
 
 log_level = 2
