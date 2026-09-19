@@ -9,7 +9,7 @@ source.include_exts = py,png,jpg,jpeg
 
 version = 1.0
 
-requirements = python3,pygame
+requirements = python3,pygame-ce
 
 orientation = landscape
 
